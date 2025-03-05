@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\bin\Debug\net9.0\enigmaDeNumeria.exe
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\bin\Debug\net9.0\enigmaDeNumeria.deps.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\bin\Debug\net9.0\enigmaDeNumeria.runtimeconfig.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\bin\Debug\net9.0\enigmaDeNumeria.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\bin\Debug\net9.0\enigmaDeNumeria.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.AssemblyInfo.cs
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.sourcelink.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\refint\enigmaDeNumeria.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\enigmaDeNumeria.genruntimeconfig.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\enigmaDeNumeria\obj\Debug\net9.0\ref\enigmaDeNumeria.dll
