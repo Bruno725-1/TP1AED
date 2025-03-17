@@ -13,3 +13,18 @@ C:\Users\1561719\Documents\TP1AED\tenis\obj\Debug\net9.0\refint\tenis.dll
 C:\Users\1561719\Documents\TP1AED\tenis\obj\Debug\net9.0\tenis.pdb
 C:\Users\1561719\Documents\TP1AED\tenis\obj\Debug\net9.0\tenis.genruntimeconfig.cache
 C:\Users\1561719\Documents\TP1AED\tenis\obj\Debug\net9.0\ref\tenis.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\bin\Debug\net9.0\tenis.exe
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\bin\Debug\net9.0\tenis.deps.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\bin\Debug\net9.0\tenis.runtimeconfig.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\bin\Debug\net9.0\tenis.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\bin\Debug\net9.0\tenis.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.AssemblyInfo.cs
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.sourcelink.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\refint\tenis.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\tenis.genruntimeconfig.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tenis\obj\Debug\net9.0\ref\tenis.dll
