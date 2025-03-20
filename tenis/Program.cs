@@ -1,35 +1,64 @@
 ﻿using System;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Tirar esse prompt antes de enviar para o verde");
+class Program {
+    public static void Main(string[] args) {
+        Console.WriteLine("Tirar esse prompt antes de mandar para o verde");
         int n = int.Parse(Console.ReadLine());
         for (int i = 0; i < n; i++) {
-            int[,] vencedores = LeResultados();
+            int[] vencedores = Resultados();
+            int[] grupos = ClassificarJogadores(vencedores);
+            ImprimirResultados(vencedores, grupos);
         }
     }
-    static int[,] LeResultados () {
-        int[,] vencedores = new int[6, 2];
-
+    public static int[] Resultados() {
+        int[] vencedores = new int[15];
         for (int i = 0; i < 15; i++) {
-            string entrada = Console.ReadLine();
-            string[] resultados = entrada.Split(' ');
-            int j1 = int.Parse(resultados[0]);
-            int j2 = int.Parse(resultados[1]);
-            int vencedor = int.Parse(resultados[2]);
-            
-            for (int j = 0; j < vencedores.GetLength(0); j++) {
-                for (int k = 0; k < vencedores.GetLength(1); k++) {
-                    vencedores[j, 1] = vencedor;
-                    if (j1 == vencedor)
-                    vencedores[0, k] = j1;
-                    if (j2 == vencedor)
-                    vencedores[0, k] = j2;
-                }
-            }
+            string[] entrada = Console.ReadLine().Split(' ');
+            vencedores[i] = int.Parse(entrada[2]);
         }
         return vencedores;
+    }
+    public static int[] ClassificarJogadores(int[] vencedores) {
+        int j1 = 0, j2 = 0, j3 = 0, j4 = 0, j5 = 0, j6 = 0;
+        for (int i = 0; i < vencedores.Length; i++) {
+            switch(vencedores[i]) {
+                case 1:
+                j1++;
+                break;
+                case 2:
+                j2++;
+                break;
+                case 3:
+                j3++;
+                break;
+                case 4:
+                j4++;
+                break;
+                case 5:
+                j5++;
+                break;
+                case 6:
+                j6++;
+                break;
+            }
+        }
+        int[] vetor = new int[6] {
+            j1, j2, j3, j4, j5, j6
+        };
+        for (int i = 0; i < vetor.Length; i++) {
+            if (vetor[i] > 4)
+            vetor[i] = 1;
+            else if (vetor[i] == 3 || vetor[i] == 4)
+            vetor[i] = 2;
+            else if (vetor[i] == 1 || vetor[i] == 2)
+            vetor[i] = 3;
+            else
+            vetor[i] = -1;
+        }
+        return vetor;
+    }
+    public static void ImprimirResultados(int[] vencedores, int[] grupos) {
+        for (int i = 0; i < grupos.Length; i++) {
+            Console.WriteLine($"{vencedores[i]} {grupos[i]}");
+        }
     }
 }
