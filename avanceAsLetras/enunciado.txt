@@ -1,0 +1,28 @@
+Avance as Letras
+
+É dado na entrada uma string A e outra B. Em uma operação você pode escolher uma letra da primeira string e avançar esta letra. Avançar uma letra significa transformá-la na próxima letra do alfabeto, veja que a próxima letra depois de z vem a letra a novamente!
+
+Por exemplo, podemos transformar a string ab em bd em no mínimo 3 operações: ab -> bb -> bc -> bd. Podemos aplicar operações nas letras em qualquer ordem, outra possibilidade seria: ab -> ac -> bc -> bd.
+Dadas as duas strings, calcule o mínimo número de operações necessárias para transformar a primeira na segunda.
+
+Entrada
+Na primeira linha terá um inteiro T (T ≤ 100) indicando o número de casos de teste.
+Para cada caso, na única linha teremos as duas strings separadas por um espaço. Ambas as strings são compostas por letras do alfabeto minúsculas apenas e são do mesmo tamanho.
+Saída
+Para cada caso imprima o número mínimo de operações.
+Regras adicionais de Programação
+Para esta atividade existem outras restrições de uso além das usuais do Verde. Isso significa que NÃO BASTA TIRAR 100% NO VERDE !
+Se estas restrições abaixo não forem observadas, pontos serão tirados e a atividade pode ser até zerada, ok?
+1 - Proibido usar construções do tipo while ( true )
+2 - Proibido usar expressões Lambda nos códigos (não sabe o que é isso ? pois é imaginei kkk)
+3 - Proibido usar classes prontas, tipo collections, generics e outras facilidades de C#
+Usar somente o que foi ensinado em ATP
+Entrada:
+3
+ab bd
+abc abc
+aaaaaaaaaa abcdefghiz 
+Saída:
+3
+0
+61

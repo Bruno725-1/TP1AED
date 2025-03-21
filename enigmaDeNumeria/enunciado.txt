@@ -1,0 +1,32 @@
+Enigma de Numéria
+
+No reino de Numéria, havia um velho sábio chamado Voda (ancestral advinha de quem !). Ele morava no alto da Torre do Cálculo, onde guardava o grande Livro dos Números Perdidos. Conta a lenda que aqueles que conseguissem desvendar os mistérios desse livro seriam capazes de manipular os números de maneiras mágicas.
+
+Certo dia, um jovem chamado Elias decidiu subir a torre para desafiar Algor e provar que era digno de aprender os segredos dos números. O sábio o recebeu com um olhar curioso e lhe disse:
+
+— Jovem Elias, se deseja provar sua inteligência, deverá resolver um desafio. Pegue este pergaminho.
+
+Elias abriu o pergaminho e nele estava escrito:
+
+"Ler vários números, você deverá. Sempre inverter, também deverá. Desvendar os segredos do Livro dos Números Perdidos, somente aqueles que corretamente reverter conseguirem, poderão."
+O jovem sorriu, pois sabia que poderia resolver esse enigma. Agora, só falta um código, que você deverá fazer, para completar o desafio.
+
+Entrada
+A entrada é composta de uma única linha contendo N números de até 8 digitos cada. É garantido que estes números não se iniciam, nem terminem com zeros.
+
+Saída
+Para cada número imprima um em cada linha invertido.
+Regras adicionais de Programação
+Para esta atividade existem outras restrições de uso além das usuais do Verde. Isso significa que NÃO BASTA TIRAR 100% NO VERDE !
+Se estas restrições abaixo não forem observadas, pontos serão tirados e a atividade pode ser até zerada, ok?
+1 - Proibido usar construções do tipo while ( true )
+2 - Proibido usar expressões Lambda nos códigos (não sabe o que é isso ? pois é imaginei kkk)
+3 - Proibido usar classes prontas, tipo collections, generics e outras facilidades de C#
+Usar somente o que foi ensinado em ATP
+4 - Proibido usar comandos foreach e qualquer classe com métodos que invertam seus membros. A inversão tem que ser feita manualmente
+Entrada:
+4321 1598 45698712 
+Saída:
+1234
+8951
+21789654

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("avanceAsLetras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+528b3f5637c9ef52b251e2778c42c153f9b59224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e137cc981e9816673733f7f711654659ec868e")]
 [assembly: System.Reflection.AssemblyProductAttribute("avanceAsLetras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("avanceAsLetras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

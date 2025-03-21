@@ -2,12 +2,12 @@
 class Program {
     public static void Main(string[] args) {
         int n = int.Parse(Console.ReadLine());
-        int[] temposResposta = new int[101];
+        int[] temposRespostaAmigos = new int[101];
         int[] pendentes = new int[101];
         bool[] temMensagemPendente = new bool[101];
         int tempoAtual = 0;
         for (int i = 0; i < 101; i++) {
-            temposResposta[i] = 0;
+            temposRespostaAmigos[i] = 0;
             pendentes[i] = -1;
         }
         for (int i = 0; i < n; i++) {
@@ -21,7 +21,7 @@ class Program {
             } else if (tipo == 'E') {
                 if (temMensagemPendente[x]) {
                     int tempoResposta = tempoAtual - pendentes[x];
-                    temposResposta[x] += tempoResposta;
+                    temposRespostaAmigos[x] += tempoResposta;
                     temMensagemPendente[x] = false; // mensagem respondida
                 }
                 tempoAtual++;
@@ -33,13 +33,13 @@ class Program {
         //amigos que ainda possuem mensagens sem resposta recebem tempo -1
         for (int i = 0; i < 101; i++) {
             if (temMensagemPendente[i]) {
-                temposResposta[i] = -1;
+                temposRespostaAmigos[i] = -1;
             }
         }
         //exibição da saída ordenada pelos números dos amigos
         for (int i = 0; i < 101; i++) {
-            if (temposResposta[i] != 0) {
-                Console.WriteLine(i + " " + temposResposta[i]);
+            if (temposRespostaAmigos[i] != 0) {
+                Console.WriteLine(i + " " + temposRespostaAmigos[i]);
             }
         }
     }
