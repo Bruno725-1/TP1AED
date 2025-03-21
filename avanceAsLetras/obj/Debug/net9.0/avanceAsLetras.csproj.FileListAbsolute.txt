@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\bin\Debug\net9.0\avanceAsLetras.exe
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\bin\Debug\net9.0\avanceAsLetras.deps.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\bin\Debug\net9.0\avanceAsLetras.runtimeconfig.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\bin\Debug\net9.0\avanceAsLetras.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\bin\Debug\net9.0\avanceAsLetras.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.AssemblyInfo.cs
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.sourcelink.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\refint\avanceAsLetras.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\avanceAsLetras.genruntimeconfig.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\avanceAsLetras\obj\Debug\net9.0\ref\avanceAsLetras.dll
