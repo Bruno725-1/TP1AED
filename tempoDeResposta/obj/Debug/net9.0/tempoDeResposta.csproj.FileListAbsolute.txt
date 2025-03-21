@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\bin\Debug\net9.0\tempoDeResposta.exe
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\bin\Debug\net9.0\tempoDeResposta.deps.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\bin\Debug\net9.0\tempoDeResposta.runtimeconfig.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\bin\Debug\net9.0\tempoDeResposta.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\bin\Debug\net9.0\tempoDeResposta.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.AssemblyInfo.cs
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.sourcelink.json
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\refint\tempoDeResposta.dll
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.pdb
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\tempoDeResposta.genruntimeconfig.cache
+C:\Users\User\Documents\Faculdade\algoritmos e estruturas de dados\TP1AED\tempoDeResposta\obj\Debug\net9.0\ref\tempoDeResposta.dll
